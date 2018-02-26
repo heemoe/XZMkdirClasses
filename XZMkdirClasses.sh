@@ -37,5 +37,3 @@ mv Classes $path
 open $path
 fi
 echo "Done! enjoy!"
-echo "		by xizi."
-echo "		blog: http://www.ixizi.cn"
